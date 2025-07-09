@@ -30,7 +30,7 @@ pipeline {
             }
             steps {
                 sh '''
-                    test -f dist/learnlink/browser/index.html
+                    test -f build/index.html
                     npm test
                 '''
             }
