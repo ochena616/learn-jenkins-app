@@ -18,6 +18,7 @@ function App() {
       <p>
           Application version: 1
       </p>
+      <div>Hola mundo</div>
     </div>
   );
 }
