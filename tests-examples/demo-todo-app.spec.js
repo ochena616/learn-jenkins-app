@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-check prueba
 const { test, expect } = require('@playwright/test');
 
 test.beforeEach(async ({ page }) => {
