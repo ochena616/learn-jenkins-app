@@ -1,4 +1,4 @@
-// @ts-check prueba
+// @ts-check pruebas con trigger con ngrok
 const { test, expect } = require('@playwright/test');
 
 test.beforeEach(async ({ page }) => {
