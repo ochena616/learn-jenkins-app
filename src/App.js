@@ -18,7 +18,7 @@ function App() {
       <p>
           Application version: 1
       </p>
-      <div>Hola mundo</div>
+      <div>Hola Luis mbaiechapa</div>
     </div>
   );
 }
